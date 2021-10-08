@@ -11,6 +11,11 @@ import cucumber.api.junit.Cucumber;
 
 public class TestRunner {
 	
+	public static void main(String[] args) {
+		
+		TestRunner t = new TestRunner();
+		
+	}
 	
 
 }
